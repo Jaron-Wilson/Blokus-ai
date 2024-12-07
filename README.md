@@ -110,4 +110,3 @@ Claude ai generated the markdown as I am still learning markdown 😢
 - Machine learning move prediction
 - Multiplayer lobby system
 - Replay sharing mechanism
-```
