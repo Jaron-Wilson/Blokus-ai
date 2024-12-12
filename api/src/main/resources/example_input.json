@@ -1,0 +1,30 @@
+[
+  {
+    "playerID": 0,
+    "playerPiece": "4L",
+    "xPosition": 0,
+    "yPosition": 0,
+    "rotation": 0
+  },
+  {
+  "playerID": 1,
+  "playerPiece": "1I",
+  "xPosition": 6,
+  "yPosition": 6,
+  "rotation": 0
+},
+  {
+    "playerID": 2,
+    "playerPiece": "4L",
+    "xPosition": 7,
+    "yPosition": 3,
+    "rotation": 180
+  },
+  {
+    "playerID": 3,
+    "playerPiece": "5V",
+    "xPosition": 5,
+    "yPosition": 5,
+    "rotation": 90
+  }
+]
